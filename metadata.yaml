@@ -1,4 +1,8 @@
 _repo: Blut-Eine-Erzahlung_47202
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47202-h/images/cover.jpg
 creator:
   author:
     agent_name: Bonsels, Waldemar
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9680
     wikipedia: http://de.wikipedia.org/wiki/Waldemar_Bonsels
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47202#Blut-Eine-Erzahlung
 gutenberg_issued: '2014-10-26'
 gutenberg_type: Text
 identifiers:
